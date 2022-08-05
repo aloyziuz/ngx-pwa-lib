@@ -1,6 +1,12 @@
 {
   "name": "@aloysius-software-factory/ngx-pwa-lib",
   "version": "1.0.0",
+  "author": "Aloysius",
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/aloyziuz/ngx-pwa-lib"
+  },
+  "homepage": "https://github.com/aloyziuz/ngx-pwa-lib",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
