@@ -12,6 +12,9 @@ Add the following code to `app.module.ts` providers array:
 ```
 This will allow Pwa Service to be initialized early and listen to `beforeinstallprompt` event before it is fired. 
 
+# Versions
+v1.x.x for Angular 13
+v2.x.x for Angular 14
 
 ## PwaService
 ### public initPwaPrompt()
