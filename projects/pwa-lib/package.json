@@ -1,6 +1,6 @@
 {
     "name": "@aloysius-software-factory/ngx-pwa-lib",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "author": "Aloysius",
     "repository": {
         "type": "git",
@@ -8,10 +8,8 @@
     },
     "homepage": "https://github.com/aloyziuz/ngx-pwa-lib",
     "peerDependencies": {
-        "@angular/common": "^14.2.9",
-        "@angular/core": "^14.2.9",
-        "@angular/cdk": "^14.2.6",
-        "@angular/material": "^14.2.6", 
-        "typescript": "~4.6.2"
+        "@angular/cdk": "^14.2.6 | ^15.0.0",
+        "@angular/common": "^15.1.3",
+        "@angular/core": "^15.1.3"
     }
 }

@@ -15,6 +15,7 @@ This will allow Pwa Service to be initialized early and listen to `beforeinstall
 # Versions
 v1.x.x for Angular 13
 v2.x.x for Angular 14
+v3.0.0 for Angular 15
 
 ## PwaService
 ### public initPwaPrompt()
